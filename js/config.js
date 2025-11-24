@@ -265,6 +265,11 @@ const API_SITES = {
            name: '森林资源',
            adult: true
        },
+	  md: {
+           api: 'https://www.md91.cc/api.php/provide/vod',
+           name: '麻豆资源',
+           adult: true
+       },
 };
 
 // 定义合并方法
